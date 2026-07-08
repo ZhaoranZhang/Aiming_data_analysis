@@ -1,16 +1,16 @@
 # Aiming_data_analysis
 
-一个简短的 MATLAB 数据分析项目，用于存放与 Aiming 相关的数据处理、分析与结果整理代码。
+A concise MATLAB data analysis project for storing code related to Aiming data processing, analysis, and result organization.
 
-## 内容
-- 数据读取与预处理
-- 分析脚本
-- 结果输出与可视化
+## Contents
+- Data loading and preprocessing
+- Analysis scripts
+- Result output and visualization
 
-## 使用方式
-1. 准备原始数据文件。
-2. 使用 MATLAB 打开项目目录。
-3. 运行相应脚本开始分析。
+## Usage
+1. Prepare the raw data files.
+2. Open the project folder in MATLAB.
+3. Run the appropriate scripts to start the analysis.
 
-## 说明
-请根据实际脚本和数据文件结构补充更具体的使用说明。
+## Notes
+Please update this README with more specific instructions based on the actual scripts and data file structure.
